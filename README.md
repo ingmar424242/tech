@@ -4,6 +4,8 @@
 
 #### Shopping list
 * [Display](https://www.welectron.com/Waveshare-13380-75inch-e-Paper-B)
+* [Display HAT](https://www.waveshare.com/e-Paper-Driver-HAT.htm)
+* [Micro-SD-Card](https://www.welectron.com/SanDisk-Ultra-16-GB-A1-UHS-I-Class-10-microSD)
 * [Raspberry](https://www.welectron.com/Raspberry-Pi-Zero-WH-mit-verloeteter-Stiftleiste)
 * [Case](https://www.welectron.com/Raspberry-Pi-Zero-Gehaeuse)
 * [Keyboard Adapter](https://www.welectron.com/USB-20-OTG-Adapter)
@@ -23,6 +25,7 @@
 
 #### Software installation
 * [Inky Calendar](https://github.com/aceisace/Inky-Calendar)
+* [MacOS image flashing](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
 
 
 
