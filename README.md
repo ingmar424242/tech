@@ -1,13 +1,17 @@
 ## Welcome to my collection of tech recipes
 
-## How to build an epaper / eink weather / calendar display
+### How to build an epaper / eink weather / calendar display
 
-### Shopping list
+#### Shopping list
 * [Display](https://www.welectron.com/Waveshare-13380-75inch-e-Paper-B)
 * [Raspberry](https://www.welectron.com/Raspberry-Pi-Zero-WH-mit-verloeteter-Stiftleiste)
 * [Case](https://www.welectron.com/Raspberry-Pi-Zero-Gehaeuse)
 * [Keyboard Adapter](https://www.welectron.com/USB-20-OTG-Adapter)
 * [Power Supply](https://www.welectron.com/Goobay-46600-Steckernetzteil-microUSB-5V-1A)
+
+#### Wiring / Driver Installation
+* [Waveshare: "Hardware/Software/Setup>>Raspberry Pi"](https://www.waveshare.com/wiki/7.5inch_e-Paper_HAT_(B))
+
 
 
 ### How to choose a license
